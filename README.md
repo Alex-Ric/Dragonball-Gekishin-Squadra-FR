@@ -22,3 +22,13 @@
   </footer>
 </body>
 </html>
+
+---
+
+## 🔍 Mots-clés pour apparaître sur Google
+
+- Discord Dragon Ball Gekishin FR  
+- Serveur francophone Gekishin Squadra  
+- Jouer à Dragon Ball Gekishin avec des Français  
+- Communauté DB Gekishin  
+- Dragon Ball Gekishin Discord français
