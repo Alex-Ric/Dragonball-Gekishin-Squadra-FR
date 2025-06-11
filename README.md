@@ -1,10 +1,13 @@
+![Gekishin Squadra]
+(https://files.fm/u/9g47bp9y7t)
+
 <!DOCTYPE html><html lang="fr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Rejoignez le serveur Discord francophone de Dragon Ball Gekishin Squadra. Communauté active, entraide, tournois, discussions passionnées entre fans de Dragon Ball.">
   <meta name="keywords" content="discord dragon ball, serveur discord francais, gekishin squadra, dragon ball discord FR, communauté dragon ball">
-  <title>Gekishin Squadra - Serveur Discord Dragon Ball FR</title>
+  <🇨🇵>Gekishin Squadra - Serveur Discord Dragon Ball FR<🇨🇵>
 </head>
 <body>
   <header>
