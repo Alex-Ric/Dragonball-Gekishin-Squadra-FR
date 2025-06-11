@@ -25,7 +25,7 @@
 
 ---
 
-## 🔍 Mots-clés pour apparaître sur Google
+## 🔍 Mots-clés 
 
 - Discord Dragon Ball Gekishin FR  
 - Serveur francophone Gekishin Squadra  
